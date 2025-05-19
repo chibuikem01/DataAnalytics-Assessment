@@ -6,7 +6,7 @@ and segment users by transaction frequency.
 Overview of Scripts
 
 1. **Customer Lifetime Value (CLV) Estimation**
-Estimates each customer’s potential lifetime value based on:
+Estimates each customerâ€™s potential lifetime value based on:
 
 - Tenure (months since account creation)
 - Total number and value of confirmed savings transactions
@@ -39,7 +39,7 @@ Outputs total number of accounts and total deposits (in Naira) per user.
 Segments customers based on their **monthly savings transaction activity**:
 
 - High Frequency: = 10/month
-- Medium Frequency: 3–9/month
+- Medium Frequency: 3â€“9/month
 - Low Frequency: < 3/month
 
 Also returns average frequency per group and number of users.
